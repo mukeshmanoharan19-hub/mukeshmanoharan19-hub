@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi 👋 I'm Mukesh Manoharan<br><br>Senior Software Engineer | AI Architect | Product Engineer<br><br>I build AI-powered products that combine Agentic AI, LLMs, modern software architecture, and product thinking to solve real-world engineering problems.<br><br>Currently exploring:<br>- 🤖 Agentic AI<br>- 🧠 AI Architecture<br>- ⚙️ AI-powered SDLC<br>- 📊 Product Management<br>- 🚀 Developer Productivity
 
 
